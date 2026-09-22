@@ -104,7 +104,7 @@ Bảng gốc `Marketing_Dataset` gồm các cột:
 
 ---
  
-## 10. Khó khăn & Hạn chế
+## Khó khăn & Hạn chế
 - Dữ liệu chưa đủ dài theo thời gian (Jan–Mar): khó đánh giá xu hướng dài hạn, tính mùa vụ, chưa đủ để so sánh với kỳ trước, năm trước
 - Mỗi kênh gần như gắn cố định với 1–2 giai đoạn cụ thể: hạn chế khả năng so sánh chéo đầy đủ ma trận Channel × Stage
 
